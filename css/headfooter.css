@@ -101,13 +101,14 @@ button a {
 .f_dl2 dd:nth-child(3) {
     margin-top: 20px;
 }
-.f_dl3 dt,
-.f_dl4 dt,
-.f_dl5 dt {
+.f_dl3 dt a,
+.f_dl4 dt a,
+.f_dl5 dt a{
+    font-size: 16px;
     color: #fff;
 }
-.f_dl3 dd,
-.f_dl5 dd {
+.f_dl3 dd a,
+.f_dl5 dd a {
     color: #a4a3a1;
     font-size: 12px;
 }
